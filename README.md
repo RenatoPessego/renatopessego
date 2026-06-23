@@ -43,5 +43,5 @@ I am a Software Engineer currently in my final year of a **Master's in Computer 
 
 ---
 <div align="center">
-  **Let's connect:** <a href="https://www.linkedin.com/in/renatopessego/">LinkedIn</a>
+  <b>Let's connect:</b> <a href="https://www.linkedin.com/in/renatopessego/">LinkedIn</a>
 </div>
